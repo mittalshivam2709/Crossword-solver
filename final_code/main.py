@@ -4,10 +4,9 @@ from Solver import solve
 
 N_CROSSWORDS = 200
 
-df = pd.read_csv('../data/crossword_info.csv')
-data_folder_path = "/home/shivam/Downloads/nyt_crosswords-master"
+df = pd.read_csv('new_crossword_info.csv')
+data_folder_path = "/Users/ohmpatel/Downloads/nyt_crosswords-master"
 
-# select 200 samples form the dataset
 sample = df.sample(n=N_CROSSWORDS)
 
 solution_df = sample.copy()
@@ -17,7 +16,6 @@ letter_acc_col = []
 word_acc_col = []
 solutions_col = []
 word_pred_col = []
-
 if __name__ == "__main__":
     count = 0
     for row in sample.iterrows():
@@ -31,7 +29,7 @@ if __name__ == "__main__":
         except:
             letter_acc, word_acc, solution, word_pred = -1, -1, "WRONG", "WRONG"
             print("Invalid attempt")
-    
+
         letter_acc_col.append(letter_acc)
         word_acc_col.append(word_acc)
         solutions_col.append(solution)
