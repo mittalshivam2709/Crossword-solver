@@ -4,8 +4,8 @@ from Solver import solve
 
 N_CROSSWORDS = 200
 
-df = pd.read_csv('new_crossword_info.csv')
-data_folder_path = "/Users/ohmpatel/Downloads/nyt_crosswords-master"
+df = pd.read_csv('../data/crossword_info.csv')
+data_folder_path = "E:/Downloads/nyt_crosswords-master"
 
 sample = df.sample(n=N_CROSSWORDS)
 
@@ -20,8 +20,7 @@ if __name__ == "__main__":
     count = 0
     for row in sample.iterrows():
         count += 1
-        if count % 10:
-            print(f"{count} files complete!")
+        print(f"{count} files complete!")
         filepath = row[-1][-1]
         full_path = os.path.join(data_folder_path, filepath)
         try:
@@ -29,7 +28,6 @@ if __name__ == "__main__":
         except:
             letter_acc, word_acc, solution, word_pred = -1, -1, "WRONG", "WRONG"
             print("Invalid attempt")
-
         letter_acc_col.append(letter_acc)
         word_acc_col.append(word_acc)
         solutions_col.append(solution)
@@ -37,11 +35,11 @@ if __name__ == "__main__":
 
 # create and save solutions dataset
 solution_df['Solutions'] = solutions_col
-solution_df.to_csv('solutions_dataset.csv', index=False)
+# solution_df.to_csv('solutions_dataset.csv', index=False)
 
 # create and save accuracies dataset
 acc_df['Letter'] = letter_acc_col
 acc_df['Word'] = word_acc_col
 acc_df['PredictionPairs'] = word_pred_col
-acc_df.to_csv('accuracies.csv', index=False)
+# acc_df.to_csv('accuracies.csv', index=False)
 

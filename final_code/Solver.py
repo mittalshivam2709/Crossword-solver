@@ -10,7 +10,7 @@ import openai
 
 openai.api_key = 'sk-proj-8oLvnNGJLnlgW4SQOoHwT3BlbkFJ8c24SWE59CoO4sTxlDC7'
 
-with open('/Users/ohmpatel/Downloads/fine_tuned/fine_tuned_model_name.txt', 'r') as f:
+with open('../3.5_fine_tuning/fine_tuned_model_name.txt', 'r') as f:
     fine_tuned_model = f.read().strip()
 
 
@@ -35,7 +35,6 @@ def get_candidates(crossword):
         completions = Model.generate_unique_completions(prompt, fine_tuned_model, num_completions=5)
         for completion in completions:
             candidates[keys[idx]].append(completion.upper())
-
     # we have a generated dictionary for candidates. Now modify candidates to be valid for grid entry
 
     def pad_or_truncate(word, length, pad_char='X'):
