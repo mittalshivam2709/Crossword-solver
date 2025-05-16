@@ -1,0 +1,9602 @@
+Crossword 7286:
+-------------------------------
+Current Depth = 0  
+Acc = 0.58               
+Char Acc = 0.71     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+25_a: date
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+32_a: rerun
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+47_d: etcetc
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 1  
+Acc = 0.73               
+Char Acc = 0.81     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+32_a: rerun
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+47_d: etcetc
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+67_a: charts
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 2  
+Acc = 0.82               
+Char Acc = 0.88     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+67_a: charts
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+52_a: fra
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 3  
+Acc = 0.82               
+Char Acc = 0.88     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+67_a: charts
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+47_d: etcetc
+32_a: reran
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 4  
+Acc = 0.83               
+Char Acc = 0.90     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+67_a: charts
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+64_a: inside
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 5  
+Acc = 0.88               
+Char Acc = 0.96     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 6  
+Acc = 0.91               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 7  
+Acc = 0.92               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+55_d: rats
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 8  
+Acc = 0.92               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+55_d: rats
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 9  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+10_a: clue
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+55_d: rats
+19_a: atip
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 10  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+55_d: rats
+19_a: atip
+10_d: brayer
+-------------------------------
+Crossword 7286:
+-------------------------------
+Current Depth = 11  
+Acc = 0.96               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+1_a: behind
+2_d: edit
+3_d: hags
+4_d: igo
+5_d: nit
+7_a: zit
+7_d: zane
+8_d: ice
+9_d: teabags
+14_a: adagio
+15_a: ace
+18_a: nea
+20_a: ets
+21_a: ave
+26_d: anne
+28_a: browneyedgirl
+28_d: brit
+29_d: reno
+30_d: orangetree
+31_d: elate
+33_a: alps
+34_a: eng
+35_d: need
+36_d: gary
+37_a: inane
+38_a: gal
+39_a: apnea
+39_d: alda
+40_d: pals
+41_a: ton
+42_a: rita
+42_d: reunite
+43_a: layer
+44_a: greeneyedlady
+45_d: ramses
+46_d: era
+48_d: abase
+49_d: rainy
+50_a: etas
+51_a: batman
+56_a: airs
+57_a: imo
+58_d: mel
+63_a: tex
+66_a: ely
+11_d: lottelenya
+6_d: dosage
+24_d: ori
+17_a: bigots
+48_a: arearug
+52_d: foxy
+27_d: cdplayer
+23_a: boytoy
+22_d: voyaging
+62_a: snee
+1_d: babe
+65_a: eyes
+25_a: sago
+13_d: espys
+25_d: swan
+12_d: union
+16_a: rons
+27_a: careens
+32_a: reran
+60_d: onh
+52_a: fra
+53_d: bonn
+47_d: etalic
+54_d: alie
+59_a: loyola
+61_d: you
+53_a: bar
+67_a: chunes
+64_a: inonit
+55_d: rats
+19_a: atip
+10_d: brayer
+10_a: blue
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 0  
+Acc = 0.37               
+Char Acc = 0.49     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_a: watchoverclose
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 1  
+Acc = 0.50               
+Char Acc = 0.57     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+56_d: stav
+10_d: frugal
+47_d: klepto
+52_d: atoz
+25_d: discs
+27_d: ranto
+54_d: vibe
+28_d: speck
+36_d: narnia
+21_d: icicle
+43_a: repel
+35_d: skin
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 2  
+Acc = 0.66               
+Char Acc = 0.78     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+10_d: frugal
+47_d: klepto
+52_d: atoz
+25_d: discs
+27_d: ranto
+28_d: speck
+36_d: narnia
+21_d: icicle
+43_a: repel
+35_d: skin
+23_a: aces
+19_a: tulip
+16_a: trade
+59_a: utep
+50_a: slip
+62_a: newt
+60_a: year
+66_a: ends
+9_a: after
+65_a: amso
+40_d: neophyte
+63_a: tori
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 3  
+Acc = 0.84               
+Char Acc = 0.89     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+10_d: frugal
+47_d: klepto
+52_d: atoz
+25_d: discs
+27_d: ranto
+28_d: speck
+36_d: narnia
+21_d: icicle
+43_a: repel
+35_d: skin
+23_a: aces
+19_a: tulip
+16_a: trade
+59_a: utep
+50_a: slip
+62_a: newt
+60_a: year
+66_a: ends
+9_a: after
+65_a: amso
+40_d: neophyte
+63_a: tori
+11_d: tall
+50_d: skews
+53_d: luna
+57_d: kris
+13_d: rep
+54_d: item
+12_d: edie
+5_d: weaken
+55_d: aeon
+56_d: ward
+4_d: scalawag
+51_a: watchlikeahawk
+6_d: axles
+9_d: attar
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 4  
+Acc = 0.93               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+10_d: frugal
+47_d: klepto
+52_d: atoz
+25_d: discs
+27_d: ranto
+28_d: speck
+36_d: narnia
+21_d: icicle
+43_a: repel
+35_d: skin
+23_a: aces
+19_a: tulip
+16_a: trade
+59_a: utep
+50_a: slip
+62_a: newt
+60_a: year
+66_a: ends
+9_a: after
+65_a: amso
+40_d: neophyte
+63_a: tori
+11_d: tall
+50_d: skews
+53_d: luna
+57_d: kris
+13_d: rep
+54_d: item
+12_d: edie
+5_d: weaken
+55_d: aeon
+56_d: ward
+4_d: scalawag
+51_a: watchlikeahawk
+6_d: axles
+9_d: attar
+14_a: opec
+20_a: flylikeaneagle
+17_a: lana
+15_a: exit
+1_a: woes
+5_a: wave
+18_a: also
+-------------------------------
+Crossword 5063:
+-------------------------------
+Current Depth = 5  
+Acc = 1.00               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+22_d: ethic
+24_a: tra
+25_a: darwin
+26_d: asian
+28_a: shh
+29_d: haas
+30_a: labs
+31_d: adapt
+32_d: beret
+33_d: slyly
+34_a: isaac
+35_a: spain
+37_a: del
+38_a: singlikeacanary
+39_d: irish
+41_a: cat
+42_a: erics
+44_a: snob
+45_d: butane
+46_a: ink
+47_a: knotty
+48_a: uss
+49_d: scrod
+51_d: waco
+58_a: qatar
+58_d: qed
+61_a: econo
+64_a: dozed
+10_d: frugal
+47_d: klepto
+52_d: atoz
+25_d: discs
+27_d: ranto
+28_d: speck
+36_d: narnia
+21_d: icicle
+43_a: repel
+35_d: skin
+23_a: aces
+19_a: tulip
+16_a: trade
+59_a: utep
+50_a: slip
+62_a: newt
+60_a: year
+66_a: ends
+9_a: after
+65_a: amso
+40_d: neophyte
+63_a: tori
+11_d: tall
+50_d: skews
+53_d: luna
+57_d: kris
+13_d: rep
+54_d: item
+12_d: edie
+5_d: weaken
+55_d: aeon
+56_d: ward
+4_d: scalawag
+51_a: watchlikeahawk
+6_d: axles
+9_d: attar
+14_a: opec
+20_a: flylikeaneagle
+17_a: lana
+15_a: exit
+1_a: woes
+5_a: wave
+18_a: also
+7_d: visa
+1_d: wolf
+2_d: opal
+3_d: eeny
+8_d: eton
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 0  
+Acc = 0.23               
+Char Acc = 0.34     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+43_a: nations
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 1  
+Acc = 0.34               
+Char Acc = 0.44     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+43_a: nations
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+23_d: musican
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 2  
+Acc = 0.38               
+Char Acc = 0.46     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+43_a: nations
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+26_a: utica
+23_a: enjoyed
+36_d: saton
+40_d: vair
+48_a: saur
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 3  
+Acc = 0.41               
+Char Acc = 0.49     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+24_d: atone
+20_d: dole
+23_d: europia
+31_d: wyes
+8_d: adrie
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 4  
+Acc = 0.41               
+Char Acc = 0.50     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+17_a: frescos
+23_a: enjoyed
+26_a: utpal
+43_a: nations
+19_a: edam
+32_a: overdone
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 5  
+Acc = 0.45               
+Char Acc = 0.58     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+23_d: eudaimo
+35_d: rant
+6_d: relevant
+32_d: orca
+9_d: wee
+8_d: myrme
+34_d: elis
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 6  
+Acc = 0.49               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+15_a: anywher
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+16_a: scalpel
+39_a: cinnie
+37_a: ralaant
+7_a: decking
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 7  
+Acc = 0.51               
+Char Acc = 0.67     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+11_d: ichu
+10_d: keat
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+9_d: cye
+14_d: psst
+8_d: eneme
+34_d: elix
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 8  
+Acc = 0.53               
+Char Acc = 0.68     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+9_d: cye
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+15_a: anywher
+21_a: etat
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 9  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+15_a: anywher
+21_a: etat
+17_a: temperi
+1_d: pudic
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 10  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+15_a: anywher
+21_a: etat
+17_a: temperi
+1_d: pudic
+9_d: cym
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 11  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+15_a: anywher
+21_a: etat
+17_a: temperi
+1_d: pudic
+9_d: cym
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 12  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+15_a: anywher
+21_a: etat
+17_a: temperi
+1_d: pudic
+9_d: cym
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 13  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+21_a: etat
+17_a: temperi
+1_d: pudic
+9_d: cym
+10_d: kepe
+-------------------------------
+Crossword 2155:
+-------------------------------
+Current Depth = 14  
+Acc = 0.53               
+Char Acc = 0.70     
+-------------------------------
+------ Current Answers --------
+27_a: elbow
+28_d: lear
+30_d: odin
+38_a: laramie
+38_d: lemonade
+44_d: adage
+45_a: wed
+45_d: wiser
+47_d: deny
+48_d: stor
+49_d: apse
+53_a: mine
+53_d: mini
+55_d: tat
+56_a: artisan
+57_d: rex
+58_d: tap
+61_a: related
+52_a: darn
+40_a: veterans
+60_a: deanery
+42_d: stayed
+36_a: speedy
+25_d: depress
+46_d: enare
+50_d: ural
+42_a: samos
+62_a: expire
+29_d: bema
+36_d: saton
+40_d: vair
+48_a: saur
+51_d: ryea
+31_d: wyes
+19_a: edam
+32_a: overdone
+7_d: datary
+24_d: atone
+20_d: dole
+35_d: rant
+6_d: relevant
+32_d: orca
+1_a: pester
+23_a: savored
+26_a: italy
+43_a: nations
+7_a: decking
+3_d: spil
+23_d: sideman
+5_d: eta
+12_d: nera
+2_d: ethyl
+33_d: vair
+13_d: grit
+4_d: tup
+14_d: psst
+8_d: eneme
+34_d: elix
+14_a: putpute
+21_a: etat
+17_a: temperi
+1_d: pudic
+9_d: cym
+15_a: anywher
+-------------------------------
+Crossword 9170:
+-------------------------------
+Current Depth = 0  
+Acc = 0.86               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+1_a: cello
+1_d: cabs
+2_d: errs
+3_d: lien
+4_d: lea
+6_d: aboard
+7_d: mousy
+8_d: fog
+10_a: memo
+11_d: erode
+12_d: mania
+13_d: onyou
+14_a: ariel
+15_a: boop
+16_a: iran
+17_a: breaddough
+18_d: dire
+19_a: sony
+20_a: ssn
+21_a: bias
+22_a: radio
+23_a: garrytrudeau
+23_d: gait
+24_d: todo
+25_d: rver
+26_d: fawn
+27_d: luau
+28_d: odin
+29_a: ovid
+30_a: audi
+31_a: aden
+31_d: aft
+32_a: ira
+32_d: idea
+33_d: roar
+34_d: atms
+35_a: waitingforgodot
+37_d: naan
+39_d: osso
+40_a: nun
+41_a: tart
+42_a: seam
+43_a: esau
+43_d: eloped
+44_a: caesars
+44_d: carrie
+45_d: anew
+47_a: marlonbrando
+47_d: melon
+48_d: abide
+50_d: roald
+51_a: ebook
+52_a: oreg
+53_a: apo
+53_d: adam
+54_d: pose
+55_d: owen
+56_a: lisp
+57_a: rearwindow
+57_d: rum
+58_d: ego
+59_d: nra
+60_a: odie
+62_a: erase
+63_a: need
+64_a: mode
+65_a: ramen
+-------------------------------
+Crossword 9170:
+-------------------------------
+Current Depth = 1  
+Acc = 0.99               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+1_a: cello
+1_d: cabs
+2_d: errs
+3_d: lien
+4_d: lea
+6_d: aboard
+7_d: mousy
+8_d: fog
+10_a: memo
+11_d: erode
+12_d: mania
+13_d: onyou
+14_a: ariel
+15_a: boop
+16_a: iran
+17_a: breaddough
+18_d: dire
+19_a: sony
+20_a: ssn
+21_a: bias
+22_a: radio
+23_a: garrytrudeau
+23_d: gait
+24_d: todo
+25_d: rver
+26_d: fawn
+27_d: luau
+28_d: odin
+29_a: ovid
+30_a: audi
+31_a: aden
+31_d: aft
+32_a: ira
+32_d: idea
+33_d: roar
+34_d: atms
+35_a: waitingforgodot
+37_d: naan
+39_d: osso
+40_a: nun
+41_a: tart
+42_a: seam
+43_a: esau
+43_d: eloped
+44_a: caesars
+44_d: carrie
+45_d: anew
+47_a: marlonbrando
+47_d: melon
+48_d: abide
+50_d: roald
+51_a: ebook
+52_a: oreg
+53_a: apo
+53_d: adam
+54_d: pose
+55_d: owen
+56_a: lisp
+57_a: rearwindow
+57_d: rum
+58_d: ego
+59_d: nra
+60_a: odie
+62_a: erase
+63_a: need
+64_a: mode
+65_a: ramen
+61_a: ugli
+26_a: floated
+6_a: amfm
+38_d: grub
+22_d: ruing
+36_d: itsok
+9_d: mph
+10_d: misadd
+46_d: edgier
+49_d: rosie
+-------------------------------
+Crossword 9170:
+-------------------------------
+Current Depth = 2  
+Acc = 1.00               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+1_a: cello
+1_d: cabs
+2_d: errs
+3_d: lien
+4_d: lea
+6_d: aboard
+7_d: mousy
+8_d: fog
+10_a: memo
+11_d: erode
+12_d: mania
+13_d: onyou
+14_a: ariel
+15_a: boop
+16_a: iran
+17_a: breaddough
+18_d: dire
+19_a: sony
+20_a: ssn
+21_a: bias
+22_a: radio
+23_a: garrytrudeau
+23_d: gait
+24_d: todo
+25_d: rver
+26_d: fawn
+27_d: luau
+28_d: odin
+29_a: ovid
+30_a: audi
+31_a: aden
+31_d: aft
+32_a: ira
+32_d: idea
+33_d: roar
+34_d: atms
+35_a: waitingforgodot
+37_d: naan
+39_d: osso
+40_a: nun
+41_a: tart
+42_a: seam
+43_a: esau
+43_d: eloped
+44_a: caesars
+44_d: carrie
+45_d: anew
+47_a: marlonbrando
+47_d: melon
+48_d: abide
+50_d: roald
+51_a: ebook
+52_a: oreg
+53_a: apo
+53_d: adam
+54_d: pose
+55_d: owen
+56_a: lisp
+57_a: rearwindow
+57_d: rum
+58_d: ego
+59_d: nra
+60_a: odie
+62_a: erase
+63_a: need
+64_a: mode
+65_a: ramen
+61_a: ugli
+26_a: floated
+6_a: amfm
+38_d: grub
+22_d: ruing
+36_d: itsok
+9_d: mph
+10_d: misadd
+46_d: edgier
+49_d: rosie
+5_d: oldbat
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 0  
+Acc = 0.34               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+2_d: howe
+3_d: soon
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+17_a: swordofdamocles
+22_a: irks
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+38_a: sag
+39_a: noisy
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 1  
+Acc = 0.66               
+Char Acc = 0.85     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+17_a: swordofdamocles
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+38_a: sag
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+14_a: isla
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+27_d: vases
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+7_d: ride
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+35_d: endure
+32_d: quill
+41_a: one
+9_d: dem
+1_d: sis
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 2  
+Acc = 0.72               
+Char Acc = 0.88     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+7_d: ride
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+60_a: gigs
+22_a: ires
+42_a: sold
+27_a: veal
+61_a: donne
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+39_a: noisy
+3_d: also
+10_a: azum
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 3  
+Acc = 0.79               
+Char Acc = 0.95     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+7_d: ride
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+55_d: gum
+48_d: codi
+38_a: lag
+35_d: ensure
+32_d: fusil
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 4  
+Acc = 0.86               
+Char Acc = 0.97     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+35_d: ensure
+32_d: fusil
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+60_a: bios
+39_a: nosey
+3_d: anon
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 5  
+Acc = 0.91               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+35_d: ensure
+32_d: fusil
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 6  
+Acc = 0.89               
+Char Acc = 0.97     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+35_d: ensure
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+42_a: sows
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 7  
+Acc = 0.92               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+35_d: ensure
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 8  
+Acc = 0.91               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+35_d: ensure
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 9  
+Acc = 0.93               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+49_d: ooze
+42_a: does
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 10  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 11  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 12  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 13  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 14  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 15  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 16  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 17  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 18  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 19  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 20  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 21  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 22  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 23  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 24  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 25  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 26  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 27  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 28  
+Acc = 0.93               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+60_a: bios
+-------------------------------
+Crossword 2414:
+-------------------------------
+Current Depth = 29  
+Acc = 0.95               
+Char Acc = 0.99     
+-------------------------------
+------ Current Answers --------
+4_d: marriage
+5_a: acrid
+8_d: ina
+10_d: ascot
+13_d: most
+15_a: paine
+16_a: soso
+23_a: bret
+25_a: elate
+25_d: ethan
+28_d: speed
+29_d: array
+30_d: cost
+34_a: threemusketeers
+36_d: moor
+37_d: endeared
+40_a: neat
+44_d: urge
+45_a: curl
+46_a: pure
+50_a: bargain
+52_d: name
+59_a: elmo
+62_a: deem
+11_d: zola
+28_a: sac
+56_d: tom
+6_d: cafes
+51_d: isle
+24_d: rate
+26_d: large
+23_d: becky
+45_d: cukes
+21_a: coast
+5_d: apogee
+12_d: uses
+33_a: pro
+31_a: stag
+46_d: pagan
+50_d: barn
+43_d: burgle
+19_d: ocelot
+1_a: sham
+43_a: buddy
+18_d: dart
+41_a: one
+9_d: dem
+1_d: sis
+22_a: ires
+27_a: veal
+58_a: aural
+31_d: stlo
+47_a: scour
+32_a: facto
+2_d: howe
+10_a: azum
+47_d: slab
+17_a: swordofdamocles
+54_d: dad
+27_d: vases
+48_d: codi
+38_a: lag
+53_a: lookeddaggersat
+20_a: enraged
+61_a: donne
+57_a: adze
+39_a: nosey
+3_d: anon
+14_a: iona
+7_d: ridd
+55_d: duo
+32_d: fusel
+42_a: does
+35_d: endure
+49_d: ooze
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 0  
+Acc = 0.50               
+Char Acc = 0.66     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+19_a: init
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+71_a: dyed
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 1  
+Acc = 0.68               
+Char Acc = 0.76     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+5_d: lie
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 2  
+Acc = 0.78               
+Char Acc = 0.87     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+5_d: lie
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 3  
+Acc = 0.91               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 4  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 5  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 6  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 7  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 8  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 9  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 10  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 11  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 12  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 13  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 14  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 15  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 16  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 17  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 18  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 19  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 20  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 21  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 22  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 23  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 24  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 25  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 26  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 27  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 28  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 14020:
+-------------------------------
+Current Depth = 29  
+Acc = 0.94               
+Char Acc = 0.98     
+-------------------------------
+------ Current Answers --------
+5_a: ladle
+6_d: alum
+8_d: lucky
+9_d: ether
+10_a: obey
+10_d: oriole
+12_d: edit
+16_a: rude
+22_a: otts
+25_a: myrtle
+28_d: noon
+29_a: rerun
+30_d: ursa
+31_d: nyet
+32_a: webb
+32_d: wolf
+33_d: evil
+34_d: babycakes
+35_a: popeye
+36_d: pta
+37_d: este
+38_d: yield
+39_a: cry
+40_a: ova
+41_a: tootsie
+41_d: tire
+42_a: use
+43_a: lib
+45_d: seaweed
+46_a: flyer
+47_d: elders
+48_a: else
+49_d: seth
+55_d: ready
+58_a: clad
+62_a: tween
+63_a: hike
+66_a: ever
+68_a: edge
+69_a: mess
+11_d: buttercup
+57_d: enter
+56_d: merge
+24_d: ripon
+26_d: tree
+21_a: mike
+54_a: dearme
+7_d: denim
+13_d: yens
+45_a: spat
+59_d: live
+50_a: cleats
+44_a: innate
+27_a: shin
+53_d: snead
+51_d: aisle
+52_d: towin
+15_a: ileut
+58_d: chem
+23_a: rehear
+18_d: yeah
+71_a: dyer
+64_a: sweetheart
+20_a: entre
+67_a: liana
+70_a: endto
+17_a: honeybunch
+65_d: tao
+61_d: sent
+60_a: ions
+1_d: other
+2_d: phone
+3_d: tenth
+14_a: they
+1_a: opts
+5_d: lib
+19_a: itin
+-------------------------------
+Crossword 5116:
+-------------------------------
+Current Depth = 0  
+Acc = 0.74               
+Char Acc = 0.87     
+-------------------------------
+------ Current Answers --------
+6_a: apes
+6_d: arena
+7_d: peru
+8_d: epic
+9_d: socket
+10_a: etch
+10_d: ether
+11_d: thedonald
+12_d: cow
+13_d: hun
+15_a: repo
+18_a: eric
+21_d: kneel
+24_a: dna
+25_a: europa
+26_d: poise
+27_d: anted
+28_a: vie
+28_d: vest
+29_a: fits
+29_d: fedex
+30_d: ided
+31_a: non
+32_a: greeneyed
+32_d: gnash
+33_d: rubio
+34_d: energybar
+35_d: yore
+36_a: trait
+37_d: rent
+38_a: nuns
+39_a: lodes
+41_a: else
+42_a: abets
+43_d: sail
+44_a: redhanded
+46_a: sir
+48_d: pelted
+49_a: amt
+51_d: testy
+52_a: aka
+52_d: abyss
+53_a: pro
+53_d: pitas
+54_d: reels
+55_d: oddly
+56_a: yellowbellied
+58_d: wage
+59_d: late
+60_a: orbs
+60_d: ons
+62_a: tray
+63_a: gated
+64_a: neat
+65_a: eggs
+66_a: atall
+67_a: spry
+68_a: dyes
+-------------------------------
+Crossword 5116:
+-------------------------------
+Current Depth = 1  
+Acc = 0.88               
+Char Acc = 0.90     
+-------------------------------
+------ Current Answers --------
+6_a: apes
+6_d: arena
+7_d: peru
+8_d: epic
+9_d: socket
+10_a: etch
+10_d: ether
+11_d: thedonald
+12_d: cow
+13_d: hun
+15_a: repo
+18_a: eric
+21_d: kneel
+24_a: dna
+25_a: europa
+26_d: poise
+27_d: anted
+28_a: vie
+28_d: vest
+29_a: fits
+29_d: fedex
+30_d: ided
+31_a: non
+32_a: greeneyed
+32_d: gnash
+33_d: rubio
+34_d: energybar
+35_d: yore
+36_a: trait
+37_d: rent
+38_a: nuns
+39_a: lodes
+41_a: else
+42_a: abets
+43_d: sail
+44_a: redhanded
+46_a: sir
+48_d: pelted
+49_a: amt
+51_d: testy
+52_a: aka
+52_d: abyss
+53_a: pro
+53_d: pitas
+54_d: reels
+55_d: oddly
+56_a: yellowbellied
+58_d: wage
+59_d: late
+60_a: orbs
+60_d: ons
+62_a: tray
+63_a: gated
+64_a: neat
+65_a: eggs
+66_a: atall
+67_a: spry
+68_a: dyes
+57_d: orgy
+20_a: whiteknuckled
+19_a: hewn
+16_a: thou
+22_d: lust
+47_a: apex
+45_d: amalgam
+61_d: rep
+69_a: messy
+50_a: hogtie
+40_d: shake
+-------------------------------
+Crossword 5116:
+-------------------------------
+Current Depth = 2  
+Acc = 0.92               
+Char Acc = 0.96     
+-------------------------------
+------ Current Answers --------
+6_a: apes
+6_d: arena
+7_d: peru
+8_d: epic
+9_d: socket
+10_a: etch
+10_d: ether
+11_d: thedonald
+12_d: cow
+13_d: hun
+15_a: repo
+18_a: eric
+21_d: kneel
+24_a: dna
+25_a: europa
+26_d: poise
+27_d: anted
+28_a: vie
+28_d: vest
+29_a: fits
+29_d: fedex
+30_d: ided
+31_a: non
+32_a: greeneyed
+32_d: gnash
+33_d: rubio
+34_d: energybar
+35_d: yore
+36_a: trait
+37_d: rent
+38_a: nuns
+39_a: lodes
+41_a: else
+42_a: abets
+43_d: sail
+44_a: redhanded
+46_a: sir
+48_d: pelted
+49_a: amt
+51_d: testy
+52_a: aka
+52_d: abyss
+53_a: pro
+53_d: pitas
+54_d: reels
+55_d: oddly
+56_a: yellowbellied
+58_d: wage
+59_d: late
+60_a: orbs
+60_d: ons
+62_a: tray
+63_a: gated
+64_a: neat
+65_a: eggs
+66_a: atall
+67_a: spry
+68_a: dyes
+57_d: orgy
+20_a: whiteknuckled
+19_a: hewn
+16_a: thou
+22_d: lust
+47_a: apex
+45_d: amalgam
+61_d: rep
+69_a: messy
+50_a: hogtie
+40_d: shake
+4_d: emit
+1_d: plows
+2_d: alpha
+-------------------------------
+Crossword 5116:
+-------------------------------
+Current Depth = 3  
+Acc = 0.97               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+6_a: apes
+6_d: arena
+7_d: peru
+8_d: epic
+9_d: socket
+10_a: etch
+10_d: ether
+11_d: thedonald
+12_d: cow
+13_d: hun
+15_a: repo
+18_a: eric
+21_d: kneel
+24_a: dna
+25_a: europa
+26_d: poise
+27_d: anted
+28_a: vie
+28_d: vest
+29_a: fits
+29_d: fedex
+30_d: ided
+31_a: non
+32_a: greeneyed
+32_d: gnash
+33_d: rubio
+34_d: energybar
+35_d: yore
+36_a: trait
+37_d: rent
+38_a: nuns
+39_a: lodes
+41_a: else
+42_a: abets
+43_d: sail
+44_a: redhanded
+46_a: sir
+48_d: pelted
+49_a: amt
+51_d: testy
+52_a: aka
+52_d: abyss
+53_a: pro
+53_d: pitas
+54_d: reels
+55_d: oddly
+56_a: yellowbellied
+58_d: wage
+59_d: late
+60_a: orbs
+60_d: ons
+62_a: tray
+63_a: gated
+64_a: neat
+65_a: eggs
+66_a: atall
+67_a: spry
+68_a: dyes
+57_d: orgy
+20_a: whiteknuckled
+19_a: hewn
+16_a: thou
+22_d: lust
+47_a: apex
+45_d: amalgam
+61_d: rep
+69_a: messy
+50_a: hogtie
+40_d: shake
+4_d: emit
+1_d: plows
+2_d: alpha
+14_a: llama
+17_a: optic
+1_a: paper
+23_a: sao
+-------------------------------
+Crossword 5116:
+-------------------------------
+Current Depth = 4  
+Acc = 1.00               
+Char Acc = 1.00     
+-------------------------------
+------ Current Answers --------
+6_a: apes
+6_d: arena
+7_d: peru
+8_d: epic
+9_d: socket
+10_a: etch
+10_d: ether
+11_d: thedonald
+12_d: cow
+13_d: hun
+15_a: repo
+18_a: eric
+21_d: kneel
+24_a: dna
+25_a: europa
+26_d: poise
+27_d: anted
+28_a: vie
+28_d: vest
+29_a: fits
+29_d: fedex
+30_d: ided
+31_a: non
+32_a: greeneyed
+32_d: gnash
+33_d: rubio
+34_d: energybar
+35_d: yore
+36_a: trait
+37_d: rent
+38_a: nuns
+39_a: lodes
+41_a: else
+42_a: abets
+43_d: sail
+44_a: redhanded
+46_a: sir
+48_d: pelted
+49_a: amt
+51_d: testy
+52_a: aka
+52_d: abyss
+53_a: pro
+53_d: pitas
+54_d: reels
+55_d: oddly
+56_a: yellowbellied
+58_d: wage
+59_d: late
+60_a: orbs
+60_d: ons
+62_a: tray
+63_a: gated
+64_a: neat
+65_a: eggs
+66_a: atall
+67_a: spry
+68_a: dyes
+57_d: orgy
+20_a: whiteknuckled
+19_a: hewn
+16_a: thou
+22_d: lust
+47_a: apex
+45_d: amalgam
+61_d: rep
+69_a: messy
+50_a: hogtie
+40_d: shake
+4_d: emit
+1_d: plows
+2_d: alpha
+14_a: llama
+17_a: optic
+1_a: paper
+23_a: sao
+5_d: racedin
+3_d: patio
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 0  
+Acc = 0.06               
+Char Acc = 0.12     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+30_d: oscarstyle
+31_d: orate
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+60_a: also
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 1  
+Acc = 0.12               
+Char Acc = 0.18     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+29_a: tomatoes
+50_a: pita
+51_a: tri
+34_a: pavin
+41_a: reata
+63_a: cert
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 2  
+Acc = 0.15               
+Char Acc = 0.22     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+22_a: vedra
+53_d: mint
+50_d: prus
+44_d: sunken
+29_d: tache
+52_d: rubr
+25_d: civvy
+31_d: orate
+32_d: soral
+46_d: gilia
+30_d: oscarottel
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 3  
+Acc = 0.15               
+Char Acc = 0.21     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+22_a: vedra
+53_d: mint
+50_d: prus
+29_d: tache
+52_d: rubr
+25_d: civvy
+31_d: orate
+32_d: soral
+46_d: gilia
+25_a: clio
+63_a: cert
+50_a: pita
+51_a: trm
+62_a: arsan
+34_d: pumps
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 4  
+Acc = 0.16               
+Char Acc = 0.25     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+22_a: vedra
+53_d: mint
+50_d: prus
+29_d: tache
+52_d: rubr
+25_d: civvy
+31_d: orate
+32_d: soral
+46_d: gilia
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+44_d: sunken
+45_a: tres
+30_d: oscarottel
+37_a: bucve
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 5  
+Acc = 0.20               
+Char Acc = 0.29     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+22_a: vedra
+53_d: mint
+50_d: prus
+29_d: tache
+52_d: rubr
+25_d: civvy
+31_d: orate
+32_d: soral
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+45_a: tres
+63_a: cert
+37_d: cafe
+59_a: crumb
+43_d: atones
+50_a: pita
+40_d: purse
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 6  
+Acc = 0.21               
+Char Acc = 0.34     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+22_a: vedra
+53_d: mint
+50_d: prus
+52_d: rubr
+32_d: soral
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+56_d: err
+30_d: oscarottel
+58_a: fine
+61_a: begs
+47_a: solos
+46_d: gilia
+44_d: sunken
+29_a: tomatoes
+37_a: culch
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 7  
+Acc = 0.26               
+Char Acc = 0.37     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+53_d: mint
+50_d: prus
+52_d: rubr
+32_d: soral
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+56_d: err
+61_a: begs
+47_a: solos
+10_d: waldor
+49_d: long
+63_a: cert
+47_d: stab
+25_d: civvy
+59_a: crumb
+29_d: talée
+48_d: oboe
+31_d: orate
+50_a: pita
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 8  
+Acc = 0.28               
+Char Acc = 0.39     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+53_d: mint
+50_d: prus
+52_d: rubr
+32_d: soral
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+56_d: err
+61_a: begs
+47_a: solos
+49_d: long
+47_d: stab
+25_d: civvy
+29_d: talée
+48_d: oboe
+31_d: orate
+22_a: vedas
+44_d: sunken
+58_a: aone
+16_a: atmo
+46_d: gilia
+30_d: oscarottel
+37_a: culve
+10_a: wing
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 9  
+Acc = 0.28               
+Char Acc = 0.37     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+35_a: sro
+38_d: serb
+41_d: roma
+44_a: sorrel
+57_d: etc
+46_a: gumbo
+38_a: scar
+57_a: etui
+34_a: pavin
+41_a: reata
+53_d: mint
+50_d: prus
+52_d: rubr
+32_d: soral
+25_a: clio
+51_a: trm
+62_a: arsan
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+56_d: err
+61_a: begs
+47_a: solos
+49_d: long
+47_d: stab
+25_d: civvy
+29_d: talée
+48_d: oboe
+31_d: orate
+58_a: aone
+16_a: atmo
+37_a: culve
+10_a: wing
+59_a: crumb
+50_a: pita
+10_d: waldor
+63_a: cert
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 10  
+Acc = 0.14               
+Char Acc = 0.19     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+34_a: pavin
+25_a: clio
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+61_a: begs
+47_a: solos
+49_d: long
+47_d: stab
+25_d: civvy
+29_d: talée
+48_d: oboe
+58_a: aone
+37_a: culve
+10_a: wing
+10_d: waldor
+13_d: grop
+54_a: tbonesteak
+-------------------------------
+Crossword 8348:
+-------------------------------
+Current Depth = 11  
+Acc = 0.14               
+Char Acc = 0.19     
+-------------------------------
+------ Current Answers --------
+19_d: evian
+34_a: pavin
+25_a: clio
+34_d: pumps
+45_a: tres
+37_d: cafe
+43_d: atones
+40_d: purse
+61_a: begs
+47_a: solos
+49_d: long
+47_d: stab
+25_d: civvy
+29_d: talée
+48_d: oboe
+58_a: aone
+37_a: culve
+10_a: wing
+10_d: waldor
+13_d: grop
+54_a: tbonesteak
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 0  
+Acc = 0.26               
+Char Acc = 0.31     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+73_a: elf
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 1  
+Acc = 0.32               
+Char Acc = 0.35     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+58_d: lares
+55_d: prune
+69_a: anita
+34_a: thais
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 2  
+Acc = 0.33               
+Char Acc = 0.39     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+49_a: brutet
+73_a: elf
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 3  
+Acc = 0.38               
+Char Acc = 0.50     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+58_d: lares
+31_d: snub
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 4  
+Acc = 0.47               
+Char Acc = 0.58     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+73_a: elf
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 5  
+Acc = 0.55               
+Char Acc = 0.61     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+58_d: lares
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 6  
+Acc = 0.54               
+Char Acc = 0.61     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+73_a: elf
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 7  
+Acc = 0.55               
+Char Acc = 0.61     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 8  
+Acc = 0.56               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 9  
+Acc = 0.56               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 10  
+Acc = 0.56               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 11  
+Acc = 0.56               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+65_d: ana
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 12  
+Acc = 0.58               
+Char Acc = 0.62     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+68_a: renna
+71_a: astar
+60_d: agra
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 13  
+Acc = 0.59               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+45_d: rodstar
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 14  
+Acc = 0.60               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 15  
+Acc = 0.62               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 16  
+Acc = 0.62               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 17  
+Acc = 0.62               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 18  
+Acc = 0.62               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 19  
+Acc = 0.62               
+Char Acc = 0.63     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+2_d: terms
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 20  
+Acc = 0.62               
+Char Acc = 0.64     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+24_a: sexreassigned
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 21  
+Acc = 0.63               
+Char Acc = 0.66     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+24_a: sexreassigned
+26_d: etal
+6_d: wores
+2_d: terme
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 22  
+Acc = 0.69               
+Char Acc = 0.75     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+26_d: etal
+6_d: wores
+2_d: terme
+22_a: reeses
+7_d: alder
+15_a: stole
+4_a: aswan
+8_d: newsy
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 23  
+Acc = 0.77               
+Char Acc = 0.87     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+6_d: wores
+2_d: terme
+22_a: reeses
+7_d: alder
+15_a: stole
+4_a: aswan
+8_d: newsy
+28_a: eiders
+5_d: startthe
+38_a: peril
+4_d: ash
+9_d: worship
+18_a: hardworking
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 24  
+Acc = 0.83               
+Char Acc = 0.94     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+6_d: wores
+2_d: terme
+7_d: alder
+15_a: stole
+4_a: aswan
+8_d: newsy
+28_a: eiders
+5_d: startthe
+38_a: peril
+4_d: ash
+9_d: worship
+18_a: hardworking
+10_d: ark
+29_d: rise
+19_d: osee
+13_d: engr
+12_d: tone
+16_a: orlon
+30_d: slaw
+-------------------------------
+Crossword 8883:
+-------------------------------
+Current Depth = 25  
+Acc = 0.87               
+Char Acc = 0.96     
+-------------------------------
+------ Current Answers --------
+25_d: eat
+27_a: sat
+35_d: ari
+36_d: irv
+37_d: soi
+41_a: error
+42_d: reenacts
+46_a: ivied
+47_d: das
+50_d: tito
+51_a: ear
+52_d: raw
+54_d: selah
+56_d: ennis
+57_d: beebe
+62_a: sterna
+63_a: wear
+66_d: hae
+70_a: bec
+72_a: hesse
+21_d: rrs
+67_a: erm
+55_d: prune
+69_a: anita
+34_a: thais
+53_a: indispensable
+20_a: ymir
+1_d: stays
+33_d: negligent
+3_d: dccix
+40_d: leon
+14_a: tec
+44_a: alger
+17_a: arc
+39_a: noel
+1_a: std
+31_a: sin
+60_a: afg
+71_a: astar
+60_d: agra
+31_d: snag
+32_d: iola
+61_d: foes
+49_a: galoot
+58_d: lares
+73_a: esk
+64_a: goestolunch
+65_d: sea
+68_a: renee
+45_d: rodster
+6_d: wores
+2_d: terme
+7_d: alder
+15_a: stole
+4_a: aswan
+8_d: newsy
+28_a: eiders
+5_d: startthe
+38_a: peril
+4_d: ash
+9_d: worship
+18_a: hardworking
+10_d: ark
+29_d: rise
+13_d: engr
+12_d: tone
+16_a: orlon
+30_d: slaw
+22_a: reeses
+23_a: per
+43_a: mesa
+-------------------------------
